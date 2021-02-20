@@ -3,3 +3,8 @@ Gitの練習
 DEVELOPを作成
 
 DEVLOPからfeatureを作成
+
+
+DEVELLOPにmerge
+merge --no-ffだとコミットが必要？
+:wqで終われる
