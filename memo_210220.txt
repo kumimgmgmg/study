@@ -8,3 +8,6 @@ DEVLOPからfeatureを作成
 DEVELLOPにmerge
 merge --no-ffだとコミットが必要？
 :wqで終われる
+
+
+feature3を作成
