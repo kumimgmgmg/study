@@ -1,3 +1,5 @@
 Gitの練習
 
 DEVELOPを作成
+
+DEVLOPからfeatureを作成
